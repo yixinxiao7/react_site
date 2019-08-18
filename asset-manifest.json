@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.9b6f485e.chunk.css",
+    "main.js": "/site/static/js/main.33c843e8.chunk.js",
+    "main.js.map": "/site/static/js/main.33c843e8.chunk.js.map",
+    "runtime~main.js": "/site/static/js/runtime~main.de27f395.js",
+    "runtime~main.js.map": "/site/static/js/runtime~main.de27f395.js.map",
+    "static/css/2.d819a5bb.chunk.css": "/site/static/css/2.d819a5bb.chunk.css",
+    "static/js/2.a5b842c8.chunk.js": "/site/static/js/2.a5b842c8.chunk.js",
+    "static/js/2.a5b842c8.chunk.js.map": "/site/static/js/2.a5b842c8.chunk.js.map",
+    "index.html": "/site/index.html",
+    "precache-manifest.eba6153bd9937e5a3149cbc1b8d1bcf4.js": "/site/precache-manifest.eba6153bd9937e5a3149cbc1b8d1bcf4.js",
+    "service-worker.js": "/site/service-worker.js",
+    "static/css/2.d819a5bb.chunk.css.map": "/site/static/css/2.d819a5bb.chunk.css.map",
+    "static/css/main.9b6f485e.chunk.css.map": "/site/static/css/main.9b6f485e.chunk.css.map",
+    "static/media/Resume.pdf": "/site/static/media/Resume.fae5033e.pdf",
+    "static/media/YX.jpg": "/site/static/media/YX.63fecf2d.jpg",
+    "static/media/black_image.jpg": "/site/static/media/black_image.75eefc39.jpg",
+    "static/media/business.jpg": "/site/static/media/business.36b88d5a.jpg",
+    "static/media/email.jpg": "/site/static/media/email.713ef814.jpg",
+    "static/media/index.css": "/site/static/media/gb1.5df4be28.jpg",
+    "static/media/graph.jpg": "/site/static/media/graph.2ed4916f.jpg",
+    "static/media/log_mng.jpg": "/site/static/media/log_mng.03a4fe69.jpg",
+    "static/media/logo.svg": "/site/static/media/logo.5d5d9eef.svg",
+    "static/media/me_2.jpg": "/site/static/media/me_2.ee3a3c16.jpg",
+    "static/media/phone.jpg": "/site/static/media/phone.94faa96d.jpg",
+    "static/media/puzzle.jpg": "/site/static/media/puzzle.25477e24.jpg",
+    "static/media/stocks.jpg": "/site/static/media/stocks.f46f8853.jpg"
+  }
+}
